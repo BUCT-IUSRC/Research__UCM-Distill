@@ -3,7 +3,7 @@
 <font style="color:rgb(0,0,0);">Te Guo, fan Huang, Hongwei Yu, Manxi Xu, Guolin Ma, </font> Kunfeng Wang<font style="color:rgb(0,0,0);"></font>
 
 ## Framework Overview
-<img width="6664" height="3929" alt="框架图_01" src="https://github.com/user-attachments/assets/4e95726c-a0be-46bb-b70c-b1166efd8f4a" />
+<img width="708" height="418" alt="image" src="https://github.com/user-attachments/assets/3af0df1d-4646-4819-b66e-9f4ca844b7e4" />
 
 
 <font style="color:rgb(0,0,0);">The overall framework of the proposed UCM-Distill. Our framework utilizes a multi-teacher distillation paradigm to generate robust supervision. The CUPG module quantifies inter-teacher discrepancies via entropy modeling to produce refined, uncertainty-aware soft pseudo-labels $\hat{Y}$. Subsequently, the MGCD strategy incorporates a mask-guided contrastive distillation loss $\mathcal{L}_{con}$ to enforce feature disentanglement in the embedding space $E$, enhancing intra-class compactness and inter-class separability. The entire network is optimized end-to-end through joint segmentation and contrastive learning objectives.</font>
