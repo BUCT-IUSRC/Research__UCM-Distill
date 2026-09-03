@@ -45,7 +45,7 @@ pyhton UCM-Distill.py
 python test.py 
 
 ### <font style="color:rgb(31, 35, 40);">Contact Us</font>
-<font style="color:rgb(31, 35, 40);">If you have any problem about this work, please feel free to reach us out at </font>`<font style="color:rgb(31, 35, 40);background-color:rgba(129, 139, 152, 0.12);">te.guo@buct.edu.cn</font>`
+<font style="color:rgb(31, 35, 40);">If you have any problem about this work, please feel free to reach us out at te.guo@buct.edu.cn</font>`
 
 
 
